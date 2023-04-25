@@ -1,6 +1,6 @@
 # Data-Science-Assignments
 
-Some example homeworks from my time with Clarusway.
+Some example assignments from my time with Clarusway.
 
 DAwPY = Data Analytics with Python
 DV    = Data Visualization
