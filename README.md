@@ -1,4 +1,4 @@
-# Data-Science-Assignments
+# Data-Science-Workshops
 
 Some example assignments from my time with Clarusway.
 
